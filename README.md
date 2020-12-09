@@ -4,11 +4,11 @@ Pada program ini pengolahan citra python digunakan untuk mendeteksi dan memantau
 
 ##### Requirements
  - numpy
-	dlib
-	pygame
-	imutils
-	opencv_python
-	scipy
+- dlib
+- pygame
+- imutils
+- opencv_python
+- scipy
  
 
  
